@@ -99,7 +99,7 @@ const data = [{
     gender: '1',
 },
 {
-    name: '张学友',
+    name: '张学友1',
     age: '18',
     gender: '2',
 }];
